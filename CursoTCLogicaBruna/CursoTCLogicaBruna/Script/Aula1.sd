@@ -1,0 +1,10 @@
+﻿{
+Autor: jefferson.bruno
+Data: 18/05/2023 
+}
+
+procedure aula1;
+
+begin
+  Log.Message('Olá Mundo, Essa é a Aula1');
+end;
